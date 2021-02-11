@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Scopti il tuo codice di Virgo!</title>
+  <title>Sellix.io Wrapper</title>
  </head>
  <body>
  <center>
